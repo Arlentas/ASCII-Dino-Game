@@ -5,4 +5,4 @@
 
  Press spacebar to jump over the cacti. 
 
- * Wow I cant believe I used to think this was OOP lol. I mean it does use a class
+ \* Wow I cant believe I used to think this was OOP lol. I mean it does use a class
